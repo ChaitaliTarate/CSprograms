@@ -8,7 +8,7 @@ namespace Training.Assignment
     public delegate void MyDelegate1();
     class Bank
     {
-
+     
         private double balance;
         public event MyDelegate CreditInAcc;
 

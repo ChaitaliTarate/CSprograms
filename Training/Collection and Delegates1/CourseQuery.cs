@@ -7,7 +7,7 @@ namespace Training.Assignment
 {
     class CourseQuery
     {
-
+       
         public int Id { get; set; }
          public String Name { get; set; }
         public int Fees { get; set; }
